@@ -1,0 +1,23 @@
+﻿Prediction of accidents in Catalonia between 2010-2018 through Machine learning
+
+
+Traffic accidents are many and generate loss of human life, sequelae due to injuries and economic losses. Road safety is extremely important as prevention is better than cure. However, the accidentality changes from year to year and fluctuates greatly from one sector to another.
+Countries, states and municipalities spend a lot of money on accident prevention and management.
+
+
+It would be very helpful:
+* predict how likely, in a region, a road accident will occur
+* study patterns and relationships between the variables involved
+* temporal trend in the impact on society
+
+
+The benefits are to be able to improve the following actions:
+* Define a strategy to invest in structural resources such as traffic lights, improve pavements or create new roads.
+* Optimize human resources such as police and health
+* Incorporate deterrence policies such as information awareness campaigns.
+
+
+This study may arouse interest in:
+* the competent authorities because they can improve their management policies
+* in companies that market travel browsers
+* in the general population that they will be more informed and aware of road safety
